@@ -7,15 +7,15 @@ An intelligent, agentic CRM assistant built with:
 
 ---
 
-## 🚀 Features
+##  Features
 
-✅ Text and voice‑based interaction  
-✅ GPT‑4o agent with LangChain tools  
-✅ Whisper for speech‑to‑text  
-✅ Beautiful progress timeline (MUI Stepper)  
-✅ JWT authentication & user sessions  
-✅ React frontend & FastAPI backend connected via WebSocket  
-✅ Dockerized for easy deployment
+ Text and voice‑based interaction  
+ GPT‑4o agent with LangChain tools  
+ Whisper for speech‑to‑text  
+ Beautiful progress timeline (MUI Stepper)  
+ JWT authentication & user sessions  
+ React frontend & FastAPI backend connected via WebSocket  
+ Dockerized for easy deployment
 
 ---
 
