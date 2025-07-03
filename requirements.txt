@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+openai
+langchain
+httpx
+whisper
+python-multipart
+fastapi-login
